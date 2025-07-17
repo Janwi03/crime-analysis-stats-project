@@ -6,8 +6,7 @@ This project investigates how law enforcement factors and socioeconomic indicato
 
 ---
 
-## Author
-- Janwi Bhattar
+## Author: Janwi Bhattar
 
 ---
 
