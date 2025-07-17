@@ -1,14 +1,13 @@
 # crime-analysis-stats-project
 
-# 📊 Crime Rate Analysis Using Multiple Linear Regression & Hypothesis Testing
+# Crime Rate Analysis Using Multiple Linear Regression & Hypothesis Testing
 
 This project investigates how law enforcement factors and socioeconomic indicators influence crime rates using **multiple linear regression** and **hypothesis testing**, conducted entirely in **Excel**.
 
 ---
 
-## 👩‍💻 Authors
-- Janwi Bhattar  
-- Sufi N Zamal
+## Authors
+- Janwi Bhattar
 
 ---
 
