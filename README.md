@@ -1,5 +1,3 @@
-# crime-analysis-stats-project
-
 # Crime Rate Analysis Using Multiple Linear Regression & Hypothesis Testing
 
 This project investigates how law enforcement factors and socioeconomic indicators influence crime rates using **multiple linear regression** and **hypothesis testing**, conducted entirely in **Excel**.
